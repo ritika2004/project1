@@ -1,0 +1,4 @@
+d1={1:"ritika",2:"shyama",3:"sikha"}
+d2={4:"palak",5:"akansha",6:"navya"}
+d1.update(d2)
+print(d1)
